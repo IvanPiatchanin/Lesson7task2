@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../ivanpyatchanin.github.io"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ivanpyatchanin.github.io",
+		"liveServer.settings.port": 5501
+	}
+}
